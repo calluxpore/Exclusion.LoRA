@@ -6,7 +6,7 @@ Training Configuration:
 Resolution: 512x512
 Enable Bucket: True
 Bucket Resolution Range: 256 to 1024 with steps of 64
-Output Name: Lonely
+Output Name: Exclusion
 Output Directory: ./output
 Save Model As: safetensors
 Save Precision: fp16
